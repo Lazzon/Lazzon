@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lazzon aka Erik Larsson
+- 👀 I’m interested in people and tech.
+- 🚀 I'm doing tech recruitment for awesome companies in Stockholm.
+- 👾 Do you have programming skills and look for a new opportunity? I'm here for you!
+- 📫 How to reach me: erik.larsson@senterprise.se
