@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Erik Larsson
 - 🧍🏻 I’m interested in people and tech.
-- 🚀 Doing tech recruitment for awesome companies in Stockholm.
+- 🚀 Doing tech recruitment currently @ Zettle by PayPal
 - 👾 Do you have programming skills and look for a new opportunity? I'm here for you!
-- 📫 Reach me at: erik.larsson@senterprise.se
+- 📫 Reach me at: elarsson@paypal.com
