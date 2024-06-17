@@ -2,4 +2,4 @@
 - 🧍🏻 I’m interested in people and tech.
 - 🚀 Working with tech recruitment for various leading companies such as Zettle by PayPal, Trustly and Mentimeter.
 - 👾 Do you have programming skills and look for a new opportunity? I'm here for you!
-- 📫 Reach me at: elarsson@paypal.com
+- 📫 Reach me at: erik.larsson@senterprise.se
